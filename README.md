@@ -1,5 +1,5 @@
 To train the model:
-1. extract `data.zip` into the root directory of the project
+1. extract [`data.zip`](https://disk.yandex.ru/d/yY6QMlgUxAOCLg) into the root directory of the project
 2. run all cells in `Palm-GAN.ipynb`
 
 To do:
